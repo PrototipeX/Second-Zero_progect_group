@@ -47,7 +47,7 @@
 
 ## Level 1.5 GameOver.
 
-![Menu](libs/GameOver.jpg)
+![Menu](libs/7.GameOverС.jpg)
 
 
 ## Chapter II
@@ -69,5 +69,6 @@
 
 ## Level 3.1 Resume.
 
-![Menu](libs/1.StartMenuС.jpg)
+\> В принципе никакой видимой проблемы в кодировке и взаимосвязях нет, надо пробовать реализовать.
+
 
